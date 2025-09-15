@@ -15,7 +15,7 @@ The checkout code pulls the repository code into the workflow runner. It's neces
 To tell Github where to publish the website and manages permissions for deployment.
 
 ## 5. How does this automated deployment improve reliability compared to manual deployment?
-It automatically checks the code so less mistakes happen.
+It automatically checks the code so less mistakes happen..
 
 ## 6. What would happen if you pushed code to a different branch (not main)?
 The workflow would simply not run. Only the main branch triggers the deployment.
